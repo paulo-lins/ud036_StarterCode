@@ -11,5 +11,6 @@ Source code for a Movie Trailer website.
 ### The entertainment_center.py program:
 * Creates multiple instances of that Movie class to represent the movies and groups all instances into a list. In this program there is a constructor for the Movie class that will create the instances of the movies.
 * In entertainment_center.py, a list of these movie objects is defined by calling the `media.Movie ()` constructor to instantiate movie objects. These objects can be stored in a list data structure. To generate the site that displays the movie trailers, a source code repository containing a Python module called `fresh_tomatoes.py` was provided by Udacity.
+### The fresh_tomatoes.py program:
 * The module fresh_tomatoes.py has a function called `open_movies_page ()`, which takes an argument, which is a list of movies, and creates an HTML file that will display all the movies in the list.
 * This list of movies is what the `open_movies_page ()` function needs as input to build the HTML file, to display the site.
