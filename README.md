@@ -2,7 +2,7 @@
 Source code for a Movie Trailer website.
 ### Final project - Web page with videos
 ### Installation:
-* You need to install  <a target="_blank" rel="noreferrer" href="https://www.python.org/">Python 3.6</a> and copy all files from ud036_StarterCode to the same folder on your computer. Then, run enterteinment_center.py.
+* You need to install  <a target="_blank" rel="noreferrer" href="https://www.python.org/">Python 3.6</a> and copy all files from ud036_StarterCode to the same folder on your computer. Then, run enterteinment_center.py. 
 ### Development
 * This project is basically divided into three modules in Python: media.py, enterteinment_center.py and fresh_tomatoes_py.
 ### The media.py program contains:
@@ -14,3 +14,5 @@ Source code for a Movie Trailer website.
 ### The fresh_tomatoes.py program:
 * The module fresh_tomatoes.py has a function called `open_movies_page ()`, which takes an argument, which is a list of movies, and creates an HTML file that will display all the movies in the list.
 * This list of movies is what the `open_movies_page ()` function needs as input to build the HTML file, to display the site.
+### Copyright
+* The programs shown here have educational purposes and all the images and videos presented here are copyright.
