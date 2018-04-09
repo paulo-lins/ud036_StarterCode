@@ -1,4 +1,6 @@
 import webbrowser
+
+# class Movie is created
 class Movie():
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
@@ -6,5 +8,6 @@ class Movie():
         self.poster_image_url = poster_image
         self.trailer_youtube_url = trailer_youtube
 
+# Method show_trailer is created
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
