@@ -1,8 +1,10 @@
 # ud036_StarterCode
 Source code for a Movie Trailer website.
-## Final project - Web page with videos
+### Final project - Web page with videos
 ### Installation:
-### Install  <a target="_blank" rel="noreferrer" href="https://www.python.org/">Python</a>
+* You need to install  <a target="_blank" rel="noreferrer" href="https://www.python.org/">Python 3.6</a> and copy all files from ud036_StarterCode to the same folder on your computer. Then, run enterteinment_center.py.
+### Development
+* This project is basically divided into three modules in Python: media.py, enterteinment_center.py and fresh_tomatoes_py.
 ### The media.py program contains:
 * A data structure (that is, a Python Class named Movie) that will store movie assets, including the title, description, cover URL, and a YouTube link to the movie trailer.
 * A method called show_trailer to display the movie trailer
