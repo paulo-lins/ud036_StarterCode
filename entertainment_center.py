@@ -39,8 +39,8 @@ django = media.Movie('Django', 'In 1858 Texas, the Speck brothers' +
 
 # Here is the list of movies that will be used
 # by the fresh_tomatoes.py program to build the site
-movies = [toy_story, avengers, rocky, pulp_fiction, \
-         inglorious_basterds, django]
+movies = [toy_story, avengers, rocky,
+          pulp_fiction, inglorious_basterds, django]
 
 # The fresh_tomatoes program builds the site
 fresh_tomatoes.open_movies_page(movies)
